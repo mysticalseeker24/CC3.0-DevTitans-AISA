@@ -1,6 +1,3 @@
-Here’s a detailed **README** file for your project. It will be split into two parts, reflecting your repositories: one for the **customer-service-app** (Next.js) and one for the **streamlit_dashboard**. Each section is detailed and explanatory, as per your request for more than 2000 words. Let's dive in:
-
----
 
 # **AISA (AI Support Assistant)** – Devtitans  
 ## Project Overview  
